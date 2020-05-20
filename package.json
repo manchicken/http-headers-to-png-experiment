@@ -1,10 +1,12 @@
 {
   "name": "http-headers-to-png",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a simple server that just prints HTTP headers.",
   "main": "src/index.js",
+  "license": "MIT",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "nodemon src/index.js",
+    "build": "echo done building"
   },
   "dependencies": {
     "text2png": "2.3.0"
