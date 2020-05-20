@@ -1,7 +1,7 @@
 {
   "name": "http-headers-to-png",
   "version": "1.0.0",
-  "description": "This is a simple server that just prints HTTP headers.",
+  "description": "",
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
